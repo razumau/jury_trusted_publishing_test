@@ -54,7 +54,7 @@ GEM
     unicode-display_width (2.5.0)
 
 PLATFORMS
-  arm64-darwin-22
+  ruby
 
 DEPENDENCIES
   jury_trusted_publishing_test!
