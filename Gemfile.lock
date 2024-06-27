@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    jury_trusted_publishing_test (0.1.1)
+    jury_trusted_publishing_test (0.1.2)
 
 GEM
   remote: https://rubygems.org/
