@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
   spec.summary = "Testing Trusted Publishing workflows."
   spec.description = spec.summary
   spec.homepage = "https://github.com/razumau/jury_trusted_publishing_test"
-  spec.required_ruby_version = ">= 3.0.0"
+  spec.required_ruby_version = ">= 3.2.0"
 
   spec.metadata["allowed_push_host"] = "https://rubygems.org"
 
